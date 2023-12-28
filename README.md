@@ -7,3 +7,5 @@ a. Some location values are way outside the allowed values for latitude and Long
 b. Some locations are not on the map provided. 
 c. The labels of the columns have not be verified so may be incorrect.
 which were taken care of and the expected output was satisfied. 
+
+![image](https://github.com/Mehul651/Plotting-grow-python/assets/85168481/eeb3d790-0fac-4363-a2d7-fcc374fc6fa1)
